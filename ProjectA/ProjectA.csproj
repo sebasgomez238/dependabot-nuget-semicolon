@@ -8,5 +8,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore;Microsoft.EntityFrameworkCore.Abstractions;Microsoft.EntityFrameworkCore.Analyzers" version="8.0.8" />
   </ItemGroup>
 </Project>
